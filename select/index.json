@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "愚か者たち",
+  "base_artist": "GLIM SPANKY",
+  "createdAt": "2026-02-08T08:01:53.987226Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愚か者たち",
+      "artist": "GLIM SPANKY",
+      "has_synced": true,
+      "path": "select/01_愚か者たち_GLIM_SPANKY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愚か者たち",
+      "artist": "GLIM SPANKY",
+      "has_synced": false,
+      "path": "select/pl_01_愚か者たち_GLIM_SPANKY.txt"
+    }
+  ]
+}
